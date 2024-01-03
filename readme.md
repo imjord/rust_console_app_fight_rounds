@@ -2,12 +2,8 @@
 
 A console app with 5 rounds of fighting. 
 
-# REQ
-
-Rust
-
 # Usage 
-
+need Rust installed
 - Cargo run
 - Play
 
